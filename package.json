@@ -1,0 +1,37 @@
+{
+  "name": "dolorvoluptas",
+  "description": "String prototype method -> 'Hello {name}!'.format({name:'Homer'});",
+  "version": "1.0.0",
+  "author": "LeoWelch",
+  "homepage": "https://github.com/LondonVandervort/dolorvoluptas.git",
+  "bugs": {
+    "url": "https://github.com/LondonVandervort/dolorvoluptas.git/issues"
+  },
+  "keywords": [
+    "pariatur",
+    "format",
+    "voluptas",
+    "voluptate",
+    "pattern"
+  ],
+  "dependencies": {
+    "json.decycled": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "unit.js": "*"
+  },
+  "main": "./index.js",
+  "preferGlobal": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LondonVandervort/dolorvoluptas.git"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
